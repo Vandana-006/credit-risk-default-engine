@@ -1,4 +1,7 @@
 # 🏦 Enterprise Credit Risk & Default Decision Engine
+# 🏦 Enterprise Credit Risk & Default Decision Engine
+
+[![Live App](https://img.shields.io/badge/Streamlit-Live_Demo-ff4b4b.svg)](https://vandana-006-credit-risk-default-engine-appmain-qizlyh.streamlit.app/)
 
 An end-to-end Machine Learning pipeline and interactive decisioning engine that predicts Probability of Default ($PD$) and calculates Expected Loss ($EL$) for retail credit applicants.
 
